@@ -2,11 +2,11 @@
 #include<conio.h>
 void main()
 {
-int a;
+int a,b;
 clrscr();
   printf("enter the value of a");
   scanf("%d",&a);
-if(a==a)
+if(a==b)
 {
 printf("vowel");  
 }
