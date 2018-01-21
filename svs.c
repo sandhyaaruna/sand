@@ -5,7 +5,7 @@ void main()
 int a,z;
 clrscr();
   printf("enter the value of a");
-  scanf("%d",&a);
+  scanf("%c",&a);
 if(a<=z)
 {
 printf("alphabet");  
