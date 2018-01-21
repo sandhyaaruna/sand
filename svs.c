@@ -8,11 +8,11 @@ clrscr();
   scanf("%d",&a);
 if(a==b)
 {
-printf("vowel");  
+printf("alphabet");  
 }
 else
 {
-printf("consonant");
+printf("not");
 }
 getch();
 }
