@@ -2,11 +2,13 @@
 #include<conio.h>
 void main()
 {
-int a=120;
+int a;
 clrscr();
-if(a==120i)
+  printf("enter the value of a");
+  scanf("%d",&a);
+if(a==120)
 {
-printf("positive");
+printf("positive");  
 }
 else
 {
