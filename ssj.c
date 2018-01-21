@@ -6,13 +6,13 @@ int a;
 clrscr();
   printf("enter the value of a");
   scanf("%d",&a);
-if(a==120)
+if(a==a)
 {
-printf("odd");  
+printf("vowel");  
 }
 else
 {
-printf("even");
+printf("consonant");
 }
 getch();
 }
