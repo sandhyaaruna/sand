@@ -2,11 +2,11 @@
 #include<conio.h>
 void main()
 {
-int a,b;
+int a,z;
 clrscr();
   printf("enter the value of a");
   scanf("%d",&a);
-if(a==b)
+if(a<=z)
 {
 printf("alphabet");  
 }
